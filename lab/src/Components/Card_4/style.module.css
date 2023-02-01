@@ -1,3 +1,14 @@
 .exemplo {
-    
+    width: 100px;
+    height: 100px;
+}
+
+.exemplo2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.exemplo3 {
+    font-weight: lighter;
+    color: gray;
 }

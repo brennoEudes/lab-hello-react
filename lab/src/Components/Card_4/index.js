@@ -6,8 +6,8 @@ export function Card_4() {
   return (
     <>
       <img src={JsxIcon} alt={altText} className={style.exemplo} />
-      <h3>JSX</h3>
-      <h4>Statically-typed, designed to run on moderns browsers.</h4>
+      <h3 className={style.exemplo2}>JSX</h3>
+      <h4 className={style.exemplo3}>Statically-typed, designed to run on moderns browsers.</h4>
     </>
   );
 }

@@ -12,21 +12,29 @@ function App() {
   return (
     <div className="App">
       <div id="container_1">
-        <div>
+        <div id="container_2">
           <Logo /> <Menu />
         </div>
 
-        <div>
+        <div id="container_3">
           <Header />
           <Button />
         </div>
       </div>
 
-      <div id="container_2">
-        <Card_1 />
-        <Card_2 />
-        <Card_3 />
-        <Card_4 />
+      <div id="container_4">
+        <div id="container_5">
+          <Card_1 />
+        </div>
+        <div id="container_6">
+          <Card_2 />
+        </div>
+        <div id="container_7">
+          <Card_3 />
+        </div>
+        <div id="container_8">
+          <Card_4 />
+        </div>
       </div>
     </div>
   );

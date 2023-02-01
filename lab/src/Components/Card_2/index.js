@@ -6,8 +6,9 @@ export function Card_2() {
   return (
     <>
       <img src={ComponentsIcon} alt={altText} className={style.exemplo} />
-      <h3>Components</h3>
-      <h4>Build encapsulated components that manage their state.</h4>
+      <br></br>
+      <h3 className={style.exemplo2}>Components</h3>
+      <h4 className={style.exemplo3}>Build encapsulated components that manage their state.</h4>
     </>
   );
 }

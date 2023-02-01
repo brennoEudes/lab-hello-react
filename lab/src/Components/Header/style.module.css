@@ -3,11 +3,13 @@
     font-size: 60px;
     font-weight: bolder;
     align-items: center;
+    width: 300px;
 }
 
 .exemplo2 {
     color: white;
-    font-size: large;
+    font-size: 1em;
     font-weight: normal;
     align-items: center;
+    width: 250px;
 }
