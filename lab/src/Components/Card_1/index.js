@@ -7,6 +7,7 @@ export function Card_1 () {
     return (
     <>    
     < img src={DeclarativeIcon} alt={altText} className={style.exemplo} />
+    <br></br>
     <h3>Declarative</h3>
     <h4>React makes it painless to create interactive UIs.</h4>
     </>

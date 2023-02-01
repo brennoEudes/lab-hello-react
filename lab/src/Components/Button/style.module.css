@@ -1,6 +1,7 @@
 .exemplo {
-    width: 180px;
-    height: 60px;
-    background-color: aqua;
-    color: darkblue;
+  width: 180px;
+  height: 60px;
+  background-color: white;
+  color: rgb(38, 42, 62);
+  border-radius: 5px;
 }

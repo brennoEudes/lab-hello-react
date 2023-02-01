@@ -1,3 +1,17 @@
 body {
-    background-color: aliceblue;
+    margin: auto;
+    width: 650px;
+    height: 750px;
+    padding: 10px;
+    
+}
+
+#container_1 {
+    padding: 20px;
+    background-color: rgb(38, 42, 62);
+}
+
+#container_2 {
+    
+    
 }
